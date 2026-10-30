@@ -1,162 +1,132 @@
 <div align="center">
-
-<img src="./assets/header.svg" alt="Vicente Pilonetto | Software engineering, systems and game development" width="100%" />
-
-**Software Developer · Systems Enthusiast · Game Developer**
-
-`C++` &nbsp; `Python` &nbsp; `SQL` &nbsp; `Linux` &nbsp; `Godot` &nbsp; `Qt`
-
+  <img src="./assets/header.svg" alt="Vicente Pilonetto | Software Developer" width="100%" />
+  <p><strong>Software Developer &nbsp;·&nbsp; Systems Enthusiast &nbsp;·&nbsp; Game Development</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-111B2E?style=flat-square&logo=cplusplus&logoColor=60A5FA" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-111B2E?style=flat-square&logo=python&logoColor=60A5FA" alt="Python" />
+    <img src="https://img.shields.io/badge/Linux-111B2E?style=flat-square&logo=linux&logoColor=60A5FA" alt="Linux" />
+    <img src="https://img.shields.io/badge/Godot-111B2E?style=flat-square&logo=godotengine&logoColor=60A5FA" alt="Godot" />
+    <img src="https://img.shields.io/badge/Qt-111B2E?style=flat-square&logo=qt&logoColor=60A5FA" alt="Qt" />
+    <img src="https://img.shields.io/badge/SQL-111B2E?style=flat-square&logo=postgresql&logoColor=60A5FA" alt="SQL" />
+  </p>
 </div>
 
----
+<img src="./assets/section-about.svg" alt="01 / about_me" width="100%" />
 
-## `> about_me`
+I'm **Vicente Pilonetto**, a software developer interested in understanding how technology works, from the user interface down to the operating system.
 
-I'm **Vicente Pilonetto**, a developer interested in understanding software from the interface all the way down to the operating system.
-
-I work on **desktop applications, automation, databases, and system utilities**, while building games and experimenting with Linux infrastructure. I like practical solutions, clean architecture, useful tooling, and learning how things work under the hood.
+I build and explore **native applications, automation tools, database utilities, Linux environments and game systems**. I value maintainable software, practical solutions and learning through real projects.
 
 ```text
-$ cat /home/vicente/profile.txt
+$ cat ~/profile.conf
 
-focus        = desktop software / systems / game development
-approach     = build -> test -> debug -> refine
-interests    = linux, low-level programming, databases, tooling
-currently   = C++ projects, Godot game systems, Linux experiments
+role       = software developer
+focus      = native applications / systems / developer tooling
+languages  = C++ / Python / SQL / C / C#
+interests  = Linux / databases / game development / self-hosting
+method     = understand > design > build > test > improve
 ```
 
-## `> tech_stack`
+<img src="./assets/section-stack.svg" alt="02 / tech_stack" width="100%" />
 
 ### Languages & scripting
 
-![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=flat-square&logo=cplusplus&logoColor=60A5FA)
-![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=60A5FA)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![C#](https://img.shields.io/badge/C%23-0B1220?style=flat-square&logo=dotnet&logoColor=60A5FA)
-![Bash](https://img.shields.io/badge/Bash-0B1220?style=flat-square&logo=gnubash&logoColor=60A5FA)
-![PowerShell](https://img.shields.io/badge/PowerShell-0B1220?style=flat-square&logo=powershell&logoColor=60A5FA)
+![C++](https://img.shields.io/badge/C%2B%2B-111B2E?style=for-the-badge&logo=cplusplus&logoColor=60A5FA)
+![C](https://img.shields.io/badge/C-111B2E?style=for-the-badge&logo=c&logoColor=60A5FA)
+![Python](https://img.shields.io/badge/Python-111B2E?style=for-the-badge&logo=python&logoColor=60A5FA)
+![C#](https://img.shields.io/badge/C%23-111B2E?style=for-the-badge&logo=dotnet&logoColor=60A5FA)
+![SQL](https://img.shields.io/badge/SQL-111B2E?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Bash](https://img.shields.io/badge/Bash-111B2E?style=for-the-badge&logo=gnubash&logoColor=60A5FA)
+![PowerShell](https://img.shields.io/badge/PowerShell-111B2E?style=for-the-badge&logo=powershell&logoColor=60A5FA)
 
-| Technology | What I use it for |
+| Technology | Practical focus |
 | :--- | :--- |
-| **C++** | Native applications, systems programming, Windows utilities, and Godot gameplay code. |
-| **Python** | Automation, development tools, testing utilities, and PySide6 interfaces. |
-| **SQL** | Queries, schema analysis, data manipulation, and database diagnostics. |
-| **C#** | Application development and expanding my .NET ecosystem knowledge. |
-| **Bash / PowerShell** | Environment setup, scripting, administration, and repeatable workflows. |
+| **C / C++** | Systems, native utilities, file processing and Godot gameplay code. |
+| **Python** | Automation, backends and developer tools. |
+| **SQL** | Data analysis, queries, diagnostics and database maintenance. |
+| **C#** | Application programming and .NET exploration. |
+| **Bash / PowerShell** | Setup, troubleshooting and repeatable workflows. |
 
-### Desktop development & game engines
+### Desktop, web & game development
 
-![Qt](https://img.shields.io/badge/Qt-0B1220?style=flat-square&logo=qt&logoColor=60A5FA)
-![Godot](https://img.shields.io/badge/Godot_4-0B1220?style=flat-square&logo=godotengine&logoColor=60A5FA)
-![Windows](https://img.shields.io/badge/Win32_APIs-0B1220?style=flat-square&logo=windows&logoColor=60A5FA)
-![Unity](https://img.shields.io/badge/Unity_%28exploring%29-0B1220?style=flat-square&logo=unity&logoColor=60A5FA)
+![Qt](https://img.shields.io/badge/Qt-111B2E?style=for-the-badge&logo=qt&logoColor=60A5FA)
+![PySide6](https://img.shields.io/badge/PySide6-111B2E?style=for-the-badge&logo=qt&logoColor=60A5FA)
+![Godot 4](https://img.shields.io/badge/Godot_4-111B2E?style=for-the-badge&logo=godotengine&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-111B2E?style=for-the-badge&logo=fastapi&logoColor=60A5FA)
+![React](https://img.shields.io/badge/React-111B2E?style=for-the-badge&logo=react&logoColor=60A5FA)
+![Vite](https://img.shields.io/badge/Vite-111B2E?style=for-the-badge&logo=vite&logoColor=60A5FA)
 
-- **Qt / PySide6:** desktop GUIs, database tooling, utility applications, and workflow automation.
-- **Godot 4 + C++ (GDExtension):** 2D gameplay systems, character controllers, animations, interactions, and scene architecture.
-- **Windows native APIs:** low-level desktop utilities and operating-system integration.
-- **Unity:** an additional engine I'm exploring, not my primary game development stack.
+- **Qt / PySide6:** desktop GUI and productivity applications.
+- **Godot 4 / C++ GDExtension:** 2D game logic, animation, movement and interaction architecture.
+- **FastAPI / WebSockets:** APIs and real-time backend services.
+- **React / Vite / HTML / CSS / JavaScript:** frontend development and experimentation.
+- **Unity:** additional game-engine learning, rather than a current primary stack.
 
-### Databases & data formats
+### Data & storage
 
-![Firebird](https://img.shields.io/badge/Firebird-0B1220?style=flat-square&logoColor=60A5FA)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=60A5FA)
-![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=flat-square&logo=sqlite&logoColor=60A5FA)
-![XML](https://img.shields.io/badge/XML-0B1220?style=flat-square&logoColor=60A5FA)
-![JSON](https://img.shields.io/badge/JSON-0B1220?style=flat-square&logo=json&logoColor=60A5FA)
+![Firebird](https://img.shields.io/badge/Firebird-111B2E?style=for-the-badge&logoColor=60A5FA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111B2E?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![SQLite](https://img.shields.io/badge/SQLite-111B2E?style=for-the-badge&logo=sqlite&logoColor=60A5FA)
+![XML](https://img.shields.io/badge/XML-111B2E?style=for-the-badge&logoColor=60A5FA)
+![JSON](https://img.shields.io/badge/JSON-111B2E?style=for-the-badge&logo=json&logoColor=60A5FA)
 
-- **Firebird:** database inspection, maintenance, backups, SQL analysis, and troubleshooting.
-- **PostgreSQL / SQLite:** relational data storage, prototypes, application backends, and local tooling.
-- **XML / JSON:** structured data parsing, integrations, validation, and configuration.
+Firebird troubleshooting and administration; relational data with PostgreSQL and SQLite; XML/JSON for integrations, parsing and validation.
 
-### Linux, infrastructure & developer tooling
+### Linux, infrastructure & tooling
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0B1220?style=flat-square&logo=archlinux&logoColor=60A5FA)
-![Debian](https://img.shields.io/badge/Debian-0B1220?style=flat-square&logo=debian&logoColor=60A5FA)
-![Linux](https://img.shields.io/badge/Linux_From_Scratch-0B1220?style=flat-square&logo=linux&logoColor=60A5FA)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=flat-square&logo=docker&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-0B1220?style=flat-square&logo=git&logoColor=60A5FA)
-![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=60A5FA)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-111B2E?style=for-the-badge&logo=archlinux&logoColor=60A5FA)
+![Debian](https://img.shields.io/badge/Debian-111B2E?style=for-the-badge&logo=debian&logoColor=60A5FA)
+![Linux From Scratch](https://img.shields.io/badge/Linux_From_Scratch-111B2E?style=for-the-badge&logo=linux&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-111B2E?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-111B2E?style=for-the-badge&logo=git&logoColor=60A5FA)
+![Proxmox](https://img.shields.io/badge/Proxmox-111B2E?style=for-the-badge&logo=proxmox&logoColor=60A5FA)
 
-| Area | Tools / technologies |
+| Domain | Tools / interests |
 | :--- | :--- |
 | **Operating systems** | Arch Linux, Debian, Ubuntu, Windows, Linux From Scratch. |
-| **Containers & virtualization** | Docker, Podman, Proxmox VE, virtual machines. |
-| **Networking & remote access** | SSH, Tailscale, WireGuard concepts, remote streaming tools. |
-| **Development workflow** | Git, GitHub, CMake, GCC / G++, terminal tooling, debugging. |
-| **System customization** | KDE Plasma, package management, reproducible builds, Linux environments. |
+| **Containers & virtualization** | Docker, Podman, Proxmox VE. |
+| **Network & remote access** | SSH, Tailscale and self-hosting. |
+| **Build & development** | Git, GitHub, GCC, G++, CMake, debugging and Linux tooling. |
 
-### Web & cross-platform (exploring)
+<img src="./assets/section-work.svg" alt="03 / public_work" width="100%" />
 
-`React` · `Next.js` · `TypeScript / JavaScript` · `Expo / React Native`
+### [01 / Harpia Linux](https://github.com/Vicente-PIlonetto/harpia-linux)
 
-These are part of my broader experimentation with educational platforms and cross-platform applications, rather than the primary focus of my current work.
+**Experimental Linux distribution** · `Linux From Scratch` · `Bash` · `GCC` · `systemd`
 
-## `> selected_projects`
+A Linux distribution experiment assembled incrementally from source, focused on modularity, system internals and future Server / Desktop editions. **In development; not a production-ready release.**
 
-### 01 / Vy-Studio
+### [02 / VyChat](https://github.com/Vicente-PIlonetto/Vicente-PIlonetto-Vychats-trabalho-finall-POO-II)
 
-**Desktop development toolkit** · `Qt` `C++` `Python` `Firebird` `SQL`
+**Self-hosted chat application** · `Python` · `FastAPI` · `WebSockets` · `SQLite`
 
-A modular workspace for database operations, inspection, and developer productivity. The toolkit is designed around tasks such as:
+A full-stack chat project with real-time communication, direct messages, file attachments and a launcher for managing its backend.
 
-- Database exploration, comparison, repair, and backup / restore workflows.
-- XML analysis, diagnostics, record editing, and SQL-oriented utilities.
-- Bringing frequently used technical operations into a consistent desktop interface.
+### [03 / GUINAPP](https://github.com/Vicente-PIlonetto/Guiapp)
 
-### 02 / Domi's Mischief
+**Modular technical file-analysis platform** · `React` · `Vite` · `FastAPI` · `C` · `Firebird`
 
-**2D pixel-art game** · `Godot 4` `C++` `GDExtension` `Game Systems`
+A developer-oriented application for validating and processing technical files using a React interface, Python APIs and native tooling.
 
-A narrative-driven game starring a mischievous cat. The project combines playful interactions with environmental storytelling.
+<sub>Only publicly available repositories are highlighted here. Descriptions refer to documented features and project direction; unfinished components are not presented as shipped products.</sub>
 
-- Four-direction movement, running, sprite animation, and collision handling.
-- Reusable interaction architecture for furniture and world objects.
-- Custom scene structure, gameplay components, and pixel-art direction.
-
-### 03 / Harpia Linux
-
-**Experimental Linux distribution / learning project** · `Linux From Scratch` `Bash` `GCC` `Systemd`
-
-A hands-on exploration of how a Linux system is assembled and maintained, with a focus on system internals, configuration, and performance.
-
-- Building toolchains and core userspace components from source.
-- Exploring package management, boot flows, and system services.
-- Designing distinct server and desktop environments.
-
-### 04 / VySCSh
-
-**Remote access and screen-sharing prototype** · `Windows` `Networking` `Desktop Software`
-
-An experimental project focused on practical desktop connectivity and screen-sharing workflows, including network and remote-access considerations.
-
-### 05 / WhatsApp AI Replay Tester
-
-**Conversation testing utility** · `Python` `PySide6` `JSON` `Regex`
-
-A desktop tool for replaying scripted conversation scenarios and checking expected responses, with structured scenarios, validation rules, and diagnostic logs.
-
-> Some projects are ongoing experiments. Descriptions reflect their direction and technical focus, not a claim that every planned feature is finished or publicly released.
-
-## `> engineering_interests`
+<img src="./assets/section-focus.svg" alt="04 / focus_areas" width="100%" />
 
 ```text
-[01] Native desktop applications       [05] Networked systems
-[02] Systems programming               [06] Development tools
-[03] Database internals & diagnostics  [07] Game architecture
-[04] Linux & self-hosting               [08] Automation & testing
+[01] Native applications and systems programming
+[02] Linux internals and environment customization
+[03] Databases, diagnostics and automation
+[04] Game systems with Godot and C++
+[05] Self-hosted services and networked applications
+[06] Testing, developer experience and maintainability
 ```
 
-## `> how_i_build`
+<img src="./assets/section-connect.svg" alt="05 / connect" width="100%" />
 
-- **Understand first.** Investigate the behavior of a system before choosing a solution.
-- **Prefer maintainable code.** Keep components modular, explicit, and testable.
-- **Automate repeatable work.** Turn manual troubleshooting into tools and scripts.
-- **Learn by building.** Use real projects to explore unfamiliar technologies.
+I'm always interested in useful tools, elegant engineering and projects that make technology easier to understand.
+
+**[Explore my public repositories](https://github.com/Vicente-PIlonetto?tab=repositories)**
 
 ---
 
-<div align="center">
-
-<sub><code>vicente@workspace:~$ build && test && improve</code></sub>
-
-</div>
+<div align="center"><sub><code>vicente@workspace:~$ build && test && improve</code></sub></div>
