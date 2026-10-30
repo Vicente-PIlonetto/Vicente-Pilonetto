@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Vicente Pilonetto — Software Developer</title>
+  <desc id="desc">Dark terminal-inspired banner with black background and electric-blue accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B12"/>
+      <stop offset="1" stop-color="#0C172B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M 38 0 L 0 0 0 38" stroke="#1B3555" stroke-opacity="0.23" fill="none" stroke-width="1"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1280" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1280" height="300" fill="url(#background)"/>
+    <rect width="1280" height="300" fill="url(#grid)"/>
+    <path d="M 1010 -40 L 1330 280 M 1110 -40 L 1430 280 M 910 -40 L 1230 280" stroke="#2763BE" stroke-opacity="0.16" stroke-width="2" fill="none"/>
+    <rect x="28" y="26" width="1224" height="248" rx="10" fill="#090F1B" fill-opacity="0.75" stroke="#24446D" stroke-width="1.4"/>
+    <path d="M 28 69 H 1252" stroke="#24446D" stroke-width="1.3"/>
+    <circle cx="51" cy="48" r="5" fill="#22426A"/>
+    <circle cx="70" cy="48" r="5" fill="#22426A"/>
+    <circle cx="89" cy="48" r="5" fill="#3B82F6"/>
+    <text x="120" y="53" fill="#7492B7" font-family="Consolas, 'Liberation Mono', monospace" font-size="15">vicente@workspace: ~/profile</text>
+    <text x="65" y="113" fill="#60A5FA" font-family="Consolas, 'Liberation Mono', monospace" font-size="20">$ whoami</text>
+    <text x="65" y="169" fill="#F0F6FF" font-family="Consolas, 'Liberation Mono', monospace" font-size="44" font-weight="700" letter-spacing="-0.8">VICENTE PILONETTO</text>
+    <rect x="65" y="189" width="62" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="65" y="220" fill="#B2C7DF" font-family="Consolas, 'Liberation Mono', monospace" font-size="19">software engineering / systems / game development</text>
+    <text x="65" y="248" fill="#60A5FA" font-family="Consolas, 'Liberation Mono', monospace" font-size="16">&gt; build. understand. improve.</text>
+    <rect x="363" y="235" width="10" height="17" rx="1" fill="#60A5FA" opacity="0.75"/>
+  </g>
+</svg>
