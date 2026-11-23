@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="214" viewBox="0 0 1200 214" role="img" aria-label="vicente@workspace: ~">
+<title>vicente@workspace: ~</title>
+<defs><clipPath id="r"><rect width="1200" height="214" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="214" fill="#0B0F19"/>
+<rect x="1" y="1" width="1198" height="212" rx="11" fill="none" stroke="#24314F" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="34" fill="#131C31"/>
+<path d="M1 35H1199" stroke="#24314F" stroke-width="2"/>
+<text x="600.0" y="23" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="13" fill="#94A3B8">vicente@workspace: ~</text>
+<g stroke="#94A3B8" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path d="M1118 18h9"/><rect x="1140" y="13.5" width="9" height="9" rx="1.5"/><path d="M1164 13.5l9 9M1173 13.5l-9 9" stroke="#F87171"/>
+</g>
+<text x="32" y="70" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#4ADE80">vicente</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#60A5FA">workspace</tspan><tspan fill="#C084FC"> ~ </tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">cat ~/.contact</tspan></text>
+<text x="32" y="100" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">github  </tspan><tspan fill="#E2E8F0">github.com/Vicente-PIlonetto</tspan></text>
+<text x="32" y="126" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">status  </tspan><tspan fill="#E2E8F0">open to useful tools and well-built projects</tspan></text>
+<text x="32" y="162" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#4ADE80">vicente</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#60A5FA">workspace</tspan><tspan fill="#C084FC"> ~ </tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">exit</tspan></text>
+<text x="32" y="188" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="15" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#64748B">logout</tspan><tspan fill="#64748B">  ·  thanks for stopping by</tspan></text>
+</g>
+</svg>

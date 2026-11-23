@@ -1,31 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Vicente Pilonetto | Software Developer</title>
-<desc id="desc">Dark minimal terminal-inspired banner with blue highlights.</desc>
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080D17"/><stop offset="1" stop-color="#10213B"/></linearGradient>
-<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#1D4ED8"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
-<pattern id="mesh" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#2B4A70" fill="none" stroke-opacity=".19"/></pattern>
-<clipPath id="round"><rect width="1200" height="300" rx="12"/></clipPath>
-</defs>
-<g clip-path="url(#round)">
-<rect width="1200" height="300" fill="url(#bg)"/>
-<rect width="1200" height="300" fill="url(#mesh)"/>
-<path d="M890 -80l400 400M1010 -80l400 400M1130 -80l400 400" fill="none" stroke="#2563EB" stroke-opacity=".14" stroke-width="2"/>
-<rect x="22" y="20" width="1156" height="260" rx="9" fill="#0A1120" fill-opacity=".89" stroke="#315277"/>
-<path d="M22 61H1178" stroke="#315277"/>
-<circle cx="46" cy="41" r="5" fill="#2563EB"/><circle cx="64" cy="41" r="5" fill="#3B82F6"/><circle cx="82" cy="41" r="5" fill="#93C5FD"/>
-<text x="109" y="47" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#B3C7E4">vicente@workspace: ~/profile</text>
-<text x="57" y="111" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="20" fill="#60A5FA">$ whoami</text>
-<text x="55" y="166" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="45" font-weight="700" fill="#F2F7FF">VICENTE PILONETTO</text>
-<rect x="57" y="185" width="286" height="3" rx="2" fill="url(#line)"/>
-<text x="57" y="220" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="19" fill="#BDCEE5">software / systems / game development</text>
-<text x="57" y="253" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="17" fill="#60A5FA">&gt; build. understand. improve.</text>
-<rect x="369" y="241" width="10" height="16" fill="#60A5FA" opacity=".82"/>
-<rect x="891" y="92" width="246" height="149" rx="8" fill="#0F2139" stroke="#26466A"/>
-<text x="913" y="121" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="15" fill="#60A5FA">// PROFILE</text>
-<path d="M912 135H1116" stroke="#29496A"/>
-<text x="913" y="162" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#D4E4F6">focus: <tspan fill="#7DD3FC">systems</tspan></text>
-<text x="913" y="188" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#D4E4F6">tools: <tspan fill="#7DD3FC">native</tspan></text>
-<text x="913" y="214" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="14" fill="#D4E4F6">mode:  <tspan fill="#7DD3FC">building</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="vicente@workspace: ~">
+<title>vicente@workspace: ~</title>
+<defs><clipPath id="r"><rect width="1200" height="470" rx="12"/></clipPath></defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="470" fill="#0B0F19"/>
+<rect x="1" y="1" width="1198" height="468" rx="11" fill="none" stroke="#24314F" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="34" fill="#131C31"/>
+<path d="M1 35H1199" stroke="#24314F" stroke-width="2"/>
+<text x="600.0" y="23" text-anchor="middle" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="13" fill="#94A3B8">vicente@workspace: ~</text>
+<g stroke="#94A3B8" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path d="M1118 18h9"/><rect x="1140" y="13.5" width="9" height="9" rx="1.5"/><path d="M1164 13.5l9 9M1173 13.5l-9 9" stroke="#F87171"/>
+</g>
+<text x="32" y="70" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#4ADE80">vicente</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#60A5FA">workspace</tspan><tspan fill="#C084FC"> ~ </tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">neofetch</tspan></text>
+<text x="60" y="128" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#F8FAFC" text-anchor="start" xml:space="preserve" >        .--.       </text>
+<text x="60" y="158" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#F8FAFC" text-anchor="start" xml:space="preserve" >       |o_o |      </text>
+<text x="60" y="188" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#FACC15" text-anchor="start" xml:space="preserve" >       |:_/ |      </text>
+<text x="60" y="218" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#F8FAFC" text-anchor="start" xml:space="preserve" >      //   \ \     </text>
+<text x="60" y="248" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#F8FAFC" text-anchor="start" xml:space="preserve" >     (|     | )    </text>
+<text x="60" y="278" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#F8FAFC" text-anchor="start" xml:space="preserve" >    /&#x27;\_   _/`\    </text>
+<text x="60" y="308" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#FACC15" text-anchor="start" xml:space="preserve" >    \___)=(___/    </text>
+<text x="430" y="110" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="22" font-weight="bold" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#22D3EE">vicente</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#22D3EE">workspace</tspan></text>
+<text x="430" y="132" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#64748B" text-anchor="start" xml:space="preserve" >────────────────────────────────</text>
+<text x="430" y="162" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">OS</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">Arch Linux x86_64</tspan></text>
+<text x="430" y="189" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Host</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">github.com/Vicente-PIlonetto</tspan></text>
+<text x="430" y="216" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Kernel</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">software developer</tspan></text>
+<text x="430" y="243" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Shell</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">zsh</tspan></text>
+<text x="430" y="270" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Langs</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">Kotlin · C++ · Python · Rust · SQL · C</tspan></text>
+<text x="430" y="297" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Focus</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">native apps / systems / games</tspan></text>
+<text x="430" y="324" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Distro</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">Harpia Linux (LFS, in progress)</tspan></text>
+<text x="430" y="351" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="17" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#60A5FA">Shipping</tspan><tspan fill="#94A3B8">: </tspan><tspan fill="#E2E8F0">Listonatha · Sessão · Hliðskjálf</tspan></text>
+<rect x="430" y="384" width="34" height="16" fill="#1E293B"/>
+<rect x="464" y="384" width="34" height="16" fill="#F87171"/>
+<rect x="498" y="384" width="34" height="16" fill="#4ADE80"/>
+<rect x="532" y="384" width="34" height="16" fill="#FACC15"/>
+<rect x="566" y="384" width="34" height="16" fill="#60A5FA"/>
+<rect x="600" y="384" width="34" height="16" fill="#C084FC"/>
+<rect x="634" y="384" width="34" height="16" fill="#22D3EE"/>
+<rect x="668" y="384" width="34" height="16" fill="#CBD5E1"/>
+<rect x="430" y="400" width="34" height="16" fill="#475569"/>
+<rect x="464" y="400" width="34" height="16" fill="#FCA5A5"/>
+<rect x="498" y="400" width="34" height="16" fill="#86EFAC"/>
+<rect x="532" y="400" width="34" height="16" fill="#FDE68A"/>
+<rect x="566" y="400" width="34" height="16" fill="#93C5FD"/>
+<rect x="600" y="400" width="34" height="16" fill="#D8B4FE"/>
+<rect x="634" y="400" width="34" height="16" fill="#67E8F9"/>
+<rect x="668" y="400" width="34" height="16" fill="#F8FAFC"/>
+<text x="32" y="444" font-family="JetBrains Mono, Fira Code, Consolas, DejaVu Sans Mono, Menlo, monospace" font-size="16" font-weight="normal" fill="#E2E8F0" text-anchor="start" xml:space="preserve" ><tspan fill="#4ADE80">vicente</tspan><tspan fill="#94A3B8">@</tspan><tspan fill="#60A5FA">workspace</tspan><tspan fill="#C084FC"> ~ </tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0"></tspan></text>
+<rect x="243" y="430" width="10" height="18" fill="#E2E8F0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </g>
 </svg>
